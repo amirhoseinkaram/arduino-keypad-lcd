@@ -1,1 +1,8 @@
 # arduino-keypad-lcd
+MY ARDUINO IS ARDUINO "DUE"
+
+
+MY KEYPAD IS 4*4
+
+
+MY LCD MODEL IS "JHD 162A" (16*2)
